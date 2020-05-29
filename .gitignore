@@ -15,9 +15,7 @@
 .cache
 .DS_Store
 Thumbs.db
+.bak
 
 # Changelog test
 changelog.txt
-
-.idea/*
-venv/*

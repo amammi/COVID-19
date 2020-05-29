@@ -1,2 +1,2 @@
-data,stato,ospedalizzati,isolamento_domiciliare,attualmente_positivi,dimessi_guariti,deceduti,totale_casi,nuovi_attualmente_positivi
-2020-02-26 18:00:00,ITA,164,221,385,3,12,400,79
+data,stato,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note_it,note_en
+2020-02-26T18:00:00,ITA,128,36,164,221,385,74,78,3,12,400,9587,,,
